@@ -17,5 +17,7 @@ function whileLoop(n){
 }
 
 function doWhileLoop(array){
-  
-}while(Math.random() >= 0)
+  do{
+    
+  }while(Math.random() >= 0)
+}
