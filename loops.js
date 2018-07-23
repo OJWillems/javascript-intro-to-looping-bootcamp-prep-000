@@ -18,4 +18,4 @@ function whileLoop(n){
 
 function doWhileLoop(array){
   
-}
+}while(Math.random() >= 0)
